@@ -230,13 +230,13 @@ header p {
   background-size: cover;
 }
 #carouselMovie .carousel-item:first-child {
-  background-image: url(../img/hero-1.jpg);
+  background-image: url(../img/hero-1.jpg) !important;
 }
 #carouselMovie .carousel-item:nth-child(2) {
-  background-image: url(../img/hero-2.jpg);
+  background-image: url(../img/hero-2.jpg) !important;
 }
 #carouselMovie .carousel-item:nth-child(3) {
-  background-image: url(../img/hero-3.jpg);
+  background-image: url(../img/hero-3.jpg) !important;
 }
 
 /* NEW IN */
